@@ -1,0 +1,196 @@
+D:\Users\yoman\source\repos\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+D:\Users\yoman\source\repos\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+D:\Users\yoman\source\repos\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+D:\Users\yoman\source\repos\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+D:\Users\yoman\source\repos\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+D:\Users\yoman\source\repos\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+D:\Users\yoman\source\repos\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+D:\Users\yoman\source\repos\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+D:\Users\yoman\source\repos\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+D:\Users\yoman\source\repos\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+D:\Users\yoman\source\repos\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+D:\Users\yoman\source\repos\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\firewatch_mezcla.mp3
+D:\Users\yoman\source\repos\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Menu\BTNPlay.xnb
+D:\Users\yoman\source\repos\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Menu\YIGOVIAmainOST.ogg
+D:\Users\yoman\source\repos\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Menu\YigoviaScreenv2.xnb
+D:\Users\yoman\source\repos\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Brickss.xnb
+D:\Users\yoman\source\repos\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Menu\YIGOVIAmainOST.xnb
+D:\Users\yoman\source\repos\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\YIGOVIA.exe
+D:\Users\yoman\source\repos\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\YIGOVIA.pdb
+D:\Users\yoman\source\repos\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+D:\Users\yoman\source\repos\YIGOVIA\YIGOVIA\obj\Debug\YIGOVIA.csprojAssemblyReference.cache
+D:\Users\yoman\source\repos\YIGOVIA\YIGOVIA\obj\Debug\YIGOVIA.csproj.CopyComplete
+D:\Users\yoman\source\repos\YIGOVIA\YIGOVIA\obj\Debug\YIGOVIA.exe
+D:\Users\yoman\source\repos\YIGOVIA\YIGOVIA\obj\Debug\YIGOVIA.pdb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Yigovia_beginning.ogg
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\firewatch_mezcla.mp3
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Menu\BTNPlay.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Menu\YIGOVIAmainOST.ogg
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Menu\YigoviaScreenv2.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Brickss.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Menu\YIGOVIAmainOST.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Down\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Down\f02.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Down\f03.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Down\f04.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Down\f05.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Down\f06.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Down\f07.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Down\f08.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Down\f09.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Left\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Left\f02.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Left\f03.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Left\f04.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Left\f05.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Left\f06.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Left\f07.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Left\f08.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Right\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Right\f02.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Right\f03.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Right\f04.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Right\f05.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Right\f06.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Right\f07.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Right\f08.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Right\f09.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Up\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Up\f02.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Up\f03.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Up\f04.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Up\f05.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Up\f06.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Up\f07.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Up\f08.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Up\f09.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\StandDown\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\StandLeft\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\StandRight\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\StandUp\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\CenterMap2.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Yigovia_beginning.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Downm\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Downm\f02.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Downm\f03.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Downm\f04.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Upm\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Upm\f02.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Upm\f03.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Upm\f04.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Rightm\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Rightm\f02.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Rightm\f03.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Rightm\f04.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Leftm\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Leftm\f02.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Leftm\f03.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Leftm\f04.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\StandDownm\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\StandUpm\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\StandRightm\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\StandLeftm\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\YIGOVIA.exe
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\YIGOVIA.pdb
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\obj\Debug\YIGOVIA.csprojAssemblyReference.cache
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\obj\Debug\YIGOVIA.csproj.CopyComplete
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\obj\Debug\YIGOVIA.exe
+C:\Users\yoman\Downloads\YIGOVIA (1)\YIGOVIA\YIGOVIA\obj\Debug\YIGOVIA.pdb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Yigovia_beginning.ogg
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\firewatch_mezcla.mp3
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Menu\BTNPlay.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Menu\YIGOVIAmainOST.ogg
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Menu\YigoviaScreenv2.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Brickss.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Menu\YIGOVIAmainOST.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Down\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Down\f02.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Down\f03.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Down\f04.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Down\f05.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Down\f06.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Down\f07.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Down\f08.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Down\f09.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Left\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Left\f02.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Left\f03.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Left\f04.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Left\f05.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Left\f06.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Left\f07.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Left\f08.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Right\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Right\f02.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Right\f03.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Right\f04.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Right\f05.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Right\f06.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Right\f07.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Right\f08.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Right\f09.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Up\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Up\f02.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Up\f03.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Up\f04.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Up\f05.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Up\f06.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Up\f07.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Up\f08.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Up\f09.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\StandDown\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\StandLeft\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\StandRight\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\StandUp\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\CenterMap2.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Yigovia_beginning.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Downm\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Downm\f02.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Downm\f03.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Downm\f04.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Upm\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Upm\f02.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Upm\f03.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Upm\f04.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Rightm\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Rightm\f02.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Rightm\f03.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Rightm\f04.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Leftm\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Leftm\f02.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Leftm\f03.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\Move_Leftm\f04.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\StandDownm\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\StandUpm\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\StandRightm\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\Content\StandLeftm\f01.xnb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\YIGOVIA.exe
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\YIGOVIA.pdb
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\obj\Debug\YIGOVIA.csprojAssemblyReference.cache
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\obj\Debug\YIGOVIA.csproj.CopyComplete
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\obj\Debug\YIGOVIA.exe
+C:\Users\yoman\Downloads\YIGOVIA_V2\YIGOVIA_v2\YIGOVIA (1)\YIGOVIA\YIGOVIA\obj\Debug\YIGOVIA.pdb
